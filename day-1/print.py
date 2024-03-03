@@ -1,0 +1,7 @@
+print("hello world")
+print("Day-1 python print function")
+print("the function is declared like this:")
+print("print('what to print')")
+print("biji line ma output mate \n aa kaam aave ")
+print("hello" + "dhairya")
+print("hello" + "" + "dhairya")
